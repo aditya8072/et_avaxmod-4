@@ -45,17 +45,11 @@ To deploy the DGNToken contract and start using its functions, follow these step
 - `burnTokens(uint256 amount)`: Burn a specified amount of tokens from the caller's balance.
 
 - `reedemTokens(uint256 choice)`: Redeem tokens for in-game items based on the provided choice:
-  - Choice 1: Emblem (200 tokens)
-  - Choice 2: Glacier Skin (100 tokens)
-  - Choice 3: Controller (75 tokens)
-
-## In-Game Store
-
-The DGNToken contract offers the following in-game items for redemption:
-
-1. Emblem: Costs 200 DGN tokens.
-2. Glacier Skin: Costs 100 DGN tokens.
-3. Controller: Costs 75 DGN tokens.
+  1. mystry item = 10
+  2. Exclusive Skin = 25
+  3. Enigma Box = 50
+  4. Game Coin = 100
+  5. Unique T-shirt = 200
 
 ## License
 
